@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://roelsassistent.github.io
+title: zowerktdatniet
+tagline: zo werkt dat niet
+description: My awesome new site
+paginate: 20
